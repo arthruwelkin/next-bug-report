@@ -1,0 +1,20 @@
+{
+  "name": "next-bug-report",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/arthruwelkin/next-bug-report.git",
+  "author": "<entrlarthur@gmail.com> Arthur",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "next": "^9.5.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  }
+}
