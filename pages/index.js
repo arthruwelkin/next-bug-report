@@ -11,9 +11,9 @@ const Metadata = () => (
 const HomePage = () => (
     <>
         <Head>
+            {/*Also adding metadata to Head doesn't work on homepage*/}
             <title>Homepage</title>
-            <meta property="og:title" content="My new title" key="title" />
-
+            <meta property="og:title" content="My new title" key="title"/>
             <Metadata/>
         </Head>
         <div>Homepage</div>

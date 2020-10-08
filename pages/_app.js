@@ -16,7 +16,7 @@ class NextApp extends App {
             <>
                 <Head>
                     <title>Next Bug Report</title>
-                    {/*ERROR*/}
+                    {/*Main error*/}
                     <Metadata/>
                 </Head>
             </>
