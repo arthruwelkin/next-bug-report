@@ -2,7 +2,7 @@
 
 ## To reproduce
 
-Run `yarn install` => `yarn run dev` / `npm install` => `npm run dev`
+Run `yarn install` ➤ `yarn run dev` | `npm install` ➤ `npm run dev`
 
 ## Error
 
